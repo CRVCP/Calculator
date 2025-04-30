@@ -1,1 +1,1 @@
-A very simple calculator for a class project.
+A simple calculator for a class project.
